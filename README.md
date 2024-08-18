@@ -73,6 +73,5 @@ Purpose: Sends real-time notifications to a Slack channel about the status of th
 Configuration: Use the Slack Jenkins plugin to send notifications about the build and deployment status to a designated Slack channel. Notifications can include success, failure, and quality gate results.
 
 ### CI Architecture:
-<p align="center">
+
 ![ci image](https://github.com/user-attachments/assets/a46c45ec-7047-4b17-8ce2-f373d22e7375)
-</p>
